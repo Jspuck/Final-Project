@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/posts';
+const API_URL = 'https://storied-profiterole-d59018.netlify.app/posts';
 
 export const fetchPosts = () => axios.get(API_URL, { withCredentials: true });
 export const createPost = (newPost) => axios.post(API_URL, newPost, { withCredentials: true });
