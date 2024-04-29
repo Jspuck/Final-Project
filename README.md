@@ -1,4 +1,4 @@
-# Web Development Final Project - *Name of App Here*
+# Web Development Final Project - *Final Project*
 
 Submitted by: **Jarett Spuck**
 
